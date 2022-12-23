@@ -1,2 +1,2 @@
-# ConversationalAI
-This repo is for Conversational AI 
+# Numpy and Pandas
+This repo contains projects on Numpy and numpy
